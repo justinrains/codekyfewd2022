@@ -5,5 +5,5 @@ Repo for Code KY stuff
 - [git ignore uncommitted changes](https://www.delftstack.com/howto/git/git-remove-uncommitted-changes/)
 - [Wappalyzer](http://wappalyzer.com/)
 - [FDA drug api](https://open.fda.gov/apis/drug/label/explore-the-api-with-an-interactive-chart/)
-
+- [bar codes](http://www.ihi.org/resources/Pages/Changes/UseBarCodestoIdentifyMedications.aspx)
 
