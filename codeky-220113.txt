@@ -1,0 +1,68 @@
+18:10:49 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Shannon Siders - Code Kentucky(Direct Message):
+	I talked to Alex from WP LOU last night.
+18:17:56 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Shannon Siders - Code Kentucky(Direct Message):
+	NKY here, close to Florence
+18:18:09 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Shannon Siders - Code Kentucky(Direct Message):
+	oops, Sorry 🙂
+18:19:08 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	NKY here. Might be cool to start in person study groups?
+18:19:45 From August Mapp to Everyone:
+	Sounds like an awesome idea, Justin
+18:21:01 From August Mapp to Everyone:
+	Brandon is going to have some events coming up in the Pikeville area!!!
+18:28:36 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Kim Wolf(Direct Message):
+	I’ll be available more this time. JS is great and also fun to code and causes stress 🙂
+18:30:31 From Brandon Thompson to Everyone:
+	@August ..yes I do! I have a monthly coder's meetup in Pikeville. I will post the link in slack later.
+18:31:34 From August Mapp to Everyone:
+	Awesome!
+18:39:34 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	Thanks Brandon!
+18:39:53 From Derick Partin to Everyone:
+	yeah. It was horrible. 
+18:44:41 From Brandon Thompson to Everyone:
+	You're welcome!
+18:50:23 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	A progressive web app? Maybe next semester.
+18:56:11 From Jared - Code Kentucky to Everyone:
+	We borrowed the template from Code Louisville. I cant believe no one noticed it never had a date before! Very observant kim lol
+18:56:49 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	I would like to start a Thursday night study group. Come drop in on zoom and ask questions. I’ll share more on slack.
+18:58:30 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	Something big for me: I have created a custom WP report with jquery bar charts, with data from the WP database.
+18:59:38 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	http://frontendmentors.io
+18:59:54 From Ashley Perry to Everyone:
+	frontendmentor.io   (without the s!)
+19:00:05 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	got it!
+19:02:02 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	my repo, if you want to add links, I just created it. https://github.com/justinrains/codekyfewd2022
+19:02:22 From Ashley Perry to Everyone:
+	Thanks Justin
+19:02:51 From Jared - Code Kentucky to Everyone:
+	Next to Channels there's a + button to see a list of Channels that exist. Some are more popular than others
+19:04:28 From Brandon Thompson to Everyone:
+	@Justin --my monthly meetup is on Thursday (every 3rd Thursday), but on the remaining days I can join your study group
+19:06:05 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	Brandon: Awesome! The 4th Thursday it will be a combined “WP Meetup” and codeky. I run the NKY WP meetup.
+19:07:29 From Brandon Thompson to Everyone:
+	@Justin I'm new to WP but I'm always happy to learn something new
+19:11:14 From Jared - Code Kentucky to Everyone:
+	Did you google it?
+19:11:56 From August Mapp to Everyone:
+	The only silly question is the one not asked!
+19:14:30 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Brandon Thompson(Direct Message):
+	what language do you work in?
+19:14:39 From Jared - Code Kentucky to Everyone:
+	https://www.delftstack.com/howto/git/git-remove-uncommitted-changes/
+19:15:32 From Jared - Code Kentucky to Everyone:
+	I'm no expert! Just trying to be helpful lol
+19:15:55 From Justin Rains ~ Portal Planet ~ 859-795-4566 to Everyone:
+	helpful is great!
+19:26:25 From Derick Partin to Everyone:
+	reclick and refresh the page...that might help
+19:26:32 From Derick Partin to Everyone:
+	right 
+19:30:22 From Brandon Thompson to Everyone:
+	https://stackoverflow.com/questions/69805804/how-to-remove-numerous-untracked-and-pending-changes-in-vs-code-source-control
