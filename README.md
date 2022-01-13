@@ -7,3 +7,8 @@ Repo for Code KY stuff
 - [FDA drug api](https://open.fda.gov/apis/drug/label/explore-the-api-with-an-interactive-chart/)
 - [bar codes](http://www.ihi.org/resources/Pages/Changes/UseBarCodestoIdentifyMedications.aspx)
 
+## Misc
+- [My favorite PKI alternative](https://en.wikipedia.org/wiki/LeSourdsville_Lake_Amusement_Park)
+
+
+
