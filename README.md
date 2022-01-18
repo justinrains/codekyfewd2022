@@ -1,6 +1,8 @@
 # FEWD javascript for Code KY
 Repo for Code KY stuff
 
+- [AngularJS](https://angularjs.org/)
+- [Intro to AngularJS](https://www.w3schools.com/angular/angular_intro.asp)
 - [Front end mentor](https://www.frontendmentor.io/)
 - [git ignore uncommitted changes](https://www.delftstack.com/howto/git/git-remove-uncommitted-changes/)
 - [Wappalyzer](http://wappalyzer.com/)
@@ -8,7 +10,7 @@ Repo for Code KY stuff
 - [bar codes](http://www.ihi.org/resources/Pages/Changes/UseBarCodestoIdentifyMedications.aspx)
 
 ## Misc
-- [My favorite PKI alternative](https://en.wikipedia.org/wiki/LeSourdsville_Lake_Amusement_Park)
+- [My favorite Kings Island alternative(Closed)](https://en.wikipedia.org/wiki/LeSourdsville_Lake_Amusement_Park)
 
 
 
