@@ -1,5 +1,7 @@
-# FEWD javascript for Code KY
+# FEWD javascript for Code KY Spring 2022
 Repo for Code KY stuff
+
+- [Syllabus sp?](https://docs.google.com/document/d/1fidFGKCABtjKQ7lV_TziHrEHUvOPbkN6CeHUxbes5bI/edit#heading=h.xura3332t0u8)
 
 - [AngularJS](https://angularjs.org/)
 - [Intro to AngularJS](https://www.w3schools.com/angular/angular_intro.asp)
