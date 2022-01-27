@@ -10,12 +10,12 @@ Repo for Code KY stuff
 - [Wappalyzer](http://wappalyzer.com/)
 - [Frontend Developer Roadmap: Learn to become a modern frontend developer](https://roadmap.sh/frontend)
 
+## Student/mentor git links:
+- [Justin R](http://github.com/justinrains)
+
 ## git
 - [Clone a repo](https://www.google.com/search?q=git+clone+repository&oq=git+clone+repository&aqs=chrome..69i57j0i512l9.6397j0j7&sourceid=chrome&ie=UTF-8)
 ## Misc
 - [My favorite Kings Island alternative(Closed)](https://en.wikipedia.org/wiki/LeSourdsville_Lake_Amusement_Park)
-
-## Student/mentor git links:
-- [Justin R](http://github.com/justinrains)
 
 
